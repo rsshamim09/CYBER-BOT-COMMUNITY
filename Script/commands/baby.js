@@ -1,5 +1,5 @@
 const axios = require("axios");
-const simsim = "https://chatgpt.com/c/6961b68c-afa4-8321-94f5-321fad22fec5";
+const simsim = "https://simsimi.cyberbot.top/";
 
 module.exports.config = {
  name: "baby",
